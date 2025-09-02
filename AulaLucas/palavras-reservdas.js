@@ -1,0 +1,23 @@
+// Não pode usar essas palavras para variável, pois ja são reservadas (variável serve para guardar dados)
+let
+const
+var 
+if 
+else 
+for 
+while 
+function 
+return 
+class 
+new 
+try 
+catch 
+break 
+continue
+switch 
+case 
+default 
+this 
+super 
+import 
+export
